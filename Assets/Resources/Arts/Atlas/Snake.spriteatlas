@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Snake
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5754521b331a4ce479756fc487b2ec3b, type: 3}
+    - {fileID: 102900000, guid: 3c81d1126c291e34183f2e9c11636b57, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8f0ffa90f16ac0b44aa91e2f569eb5f9, type: 3}
+  - {fileID: 21300000, guid: 61129124c42842149baf597a2ced7797, type: 3}
+  - {fileID: 21300000, guid: cfe2d36935f10904c840652c1a82fa4a, type: 3}
+  - {fileID: 21300000, guid: a6cd5c4a204c4604599b4015403e045d, type: 3}
+  - {fileID: 21300000, guid: aeb1568afdb60b44986d1c478392547d, type: 3}
+  - {fileID: 21300000, guid: 43b66e0b7333e114aa277f5d518600e5, type: 3}
+  - {fileID: 21300000, guid: ef113e4b6c19f8842a92eca56e107429, type: 3}
+  - {fileID: 21300000, guid: 807df1fb37083f04db089a05157cb796, type: 3}
+  - {fileID: 21300000, guid: 6feea26c56a2c224981bb1078c1215be, type: 3}
+  - {fileID: 21300000, guid: f2bb637c759868d4ea0cb22dbb113342, type: 3}
+  - {fileID: 21300000, guid: 541be75eeb4579842afc108a7687bf3d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 1001_node
+  - rect
+  - circle
+  - rounded_rect
+  - 1001_tail
+  - joy_stick_area
+  - 1001_gun
+  - link
+  - prop_1001
+  - joy_stick_btn
+  - 1001_head
+  m_RenderDataMap: {}
+  m_Tag: Snake
+  m_IsVariant: 0
+  m_IsPlaceholder: 0
